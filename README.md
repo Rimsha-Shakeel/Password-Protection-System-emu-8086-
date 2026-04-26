@@ -145,14 +145,6 @@ SYSTEM LOCKED - CONTACT ADMIN
 
 ---
 
-## 👥 Contributors
-| Name | Contribution |
-|------|-------------|
-| **Zunaira Ahmed** | Idea, Algorithm, Documentation |
-| **Rimsha Shakeel** | Implementation, Testing, Debugging |
-
----
-
 ## 📈 Learning Outcomes
 - Low-level programming concepts  
 - Memory & register handling  
